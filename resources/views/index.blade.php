@@ -125,7 +125,7 @@
                                 </div>
                             @endforeach
                         </div>
-                        <div class="col-12 row text-center d-inline px-0" style="margin-top: 20px">
+                        <div class="col-12 row text-center d-inline px-0" style="margin-top: 15px">
                             <a href="https://dash.devlab.ae/terms" class="footer-link" style="margin-right: 20px; margin-left: 20px">Terms & Conditions</a>
                             <a href="https://dash.devlab.ae/policy" class="footer-link" style="margin-right: 20px; margin-left: 20px">Privacy</a>
                         </div>
