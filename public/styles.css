@@ -9,30 +9,30 @@ width: 100%;border:none;height: 1500px;
 }
 .footer-iframe body .container{
 	margin: auto;
-} 
+}
 @media (min-width: 1216px ){
 .footer-iframe{
-  height: 220px!important;
+  height: 330px!important;
 }
 }
 @media (max-width: 1216px){
 .footer-iframe{
-  height: 300px!important;
+  height: 430px!important;
 }
 }
 @media (max-width: 800px){
 .footer-iframe{
-  height: 400px!important;
+  height: 510px!important;
 }
 }
 @media (max-width: 500px){
 .footer-iframe{
-  height: 400px!important;
+  height: 700px!important;
 }
 }
 @media (max-width: 420px){
 .footer-iframe{
-  height: 700px!important;
+  height: 1000px!important;
 }
 }
 @media (max-width: 320px){
