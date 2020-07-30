@@ -119,7 +119,7 @@
                             @foreach ($sites as $site)
                                 <div class="d-inline-block" style="width: 112px;height: 91px;">
                                     <a href="{{$site->link}}" style="width: 100%;height: 91px;" class="d-block text-center">
-                                        <img alt="{{$site->name}}" src="{{($site->site_profile && count($site->site_profile) > 0 && $site->site_profile[0]->icon_en) ? $site->site_profile[0]->icon_en : env('PUBLIC_PATH').'/brandmark-design.png' }}" style="width: 48px;height: 48px;object-fit: contain;" class="text-center d-inline-block my-2">
+                                        <img title="{{$site->name}}" alt="{{$site->name}}" src="{{($site->site_profile && count($site->site_profile) > 0 && $site->site_profile[0]->icon_en) ? $site->site_profile[0]->icon_en : env('PUBLIC_PATH').'/brandmark-design.png' }}" style="width: 48px;height: 48px;object-fit: contain;" class="text-center d-inline-block my-2">
                                         <h6 style="color:#666;font-size: 14px;" class="text-center text-mode">{{$site->name}}</h6>
                                     </a>
                                 </div>
