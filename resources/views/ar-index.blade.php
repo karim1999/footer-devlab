@@ -130,8 +130,8 @@
 
                         </div>
                         <div class="col-12 row text-center d-inline px-0" style="margin-top: 15px">
-                            <a target="_blank" href="https://dash.devlab.ae/terms" class="footer-link" style="margin-right: 20px; margin-left: 20px">الشروط والاحكام</a>
-                            <a target="_blank" href="https://dash.devlab.ae/policy" class="footer-link" style="margin-right: 20px; margin-left: 20px">سياسة الخصوصية</a>
+                            <a target="_blank" href="https://devlab.ae/terms" class="footer-link" style="margin-right: 20px; margin-left: 20px">الشروط والاحكام</a>
+                            <a target="_blank" href="https://devlab.ae/policy" class="footer-link" style="margin-right: 20px; margin-left: 20px">سياسة الخصوصية</a>
                         </div>
 
                     </div>
