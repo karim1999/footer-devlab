@@ -114,7 +114,7 @@
     ">
         <div class="container m-auto">
             <div class="col-12 text-center">
-                <a href="https://devlab.ae/">
+                <a target="_blank" href="https://devlab.ae/">
                     <img src="{{env('PUBLIC_PATH')}}/brandmark-design.png"  style="width: 180px;max-width: 100%" class="mt-4">
                 </a>
                 {{-- <h6 style="font-size: 14px;" class="text-center py-3">مجموعة مواقع Devlab</h6> --}}
